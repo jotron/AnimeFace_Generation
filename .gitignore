@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+model/.ipynb_checkpoints/*
+provider/Clean\ Faces/.ipynb_checkpoints/*
+provider/Detect\ Faces/.ipynb_checkpoints/*
+data/
+results/*.png
+
