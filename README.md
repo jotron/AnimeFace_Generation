@@ -1,10 +1,10 @@
 # Anime Face Customization
 
-Customize anime faces through the latent space of a Variational Autoencoder (VAE).
+Generation of Anime faces through the latent space of a Variational Autoencoder (VAE).
 
 Built with Pytorch, Using Danbooru2018 Dataset.
 
-## Examples
+## Example
 
 ![Random Samples](results/Saved/latent_512_tloss_567.png)
 
@@ -18,7 +18,7 @@ Built with Pytorch, Using Danbooru2018 Dataset.
 ## Insights:
 
 - When using plain VAE, balancing the KL Divergence and the MSE Loss is hard. Images tend to be blurry.
-- With RMSprop and fine tuning convergence is really slow at the end
+- With RMSprop and fine tuning convergence tends to be really slow at the end
 
 ## References:
 
